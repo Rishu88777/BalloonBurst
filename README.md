@@ -21,13 +21,13 @@ A fun and interactive balloon game developed using Phaser.js. Inflate balloons b
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/balloon-game.git
+    git clone https://github.com/Rishu88777/BalloonBurst.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd balloon-game
+    cd BalloonBurst
     ```
 
 3. Open the `index.html` file in your web browser to run the game.
